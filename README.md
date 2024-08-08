@@ -1,6 +1,5 @@
 - 👋🏼 Hi, I’m Safaa
-- 👩🏼‍🎓 I recently graduated with a M.Eng. in IT
-- 👀 I’m interested in Data Analysis
+- 👩🏻‍💻 Data Enthusiast
 - 📫 Reach me @ : allamy.safaa@gmail.com
 
 <!---
